@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+ background-color: black;
+}
+
+.box {
+    width: 400px;
+    background-color: white;
+margin: auto;}
+
+.header {
+    width: 400px;
+}
+
+.footer {
+    text-align: justify;
+    padding: 10px;
+    display: block;
+
+}
+.footer p {
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+h3 {
+    padding: 15px 0px 15px 50px;
+    line-height: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.icons {
+    padding: 5px;
+    font-size: 30px;
+}
+.derecha {
+float: right;
+}
+
+.icono {
+    display: inline-block;
+    font-size: 30px;
+    position: absolute;
+top: 20px;
+left:90px; }
+
+.puntos {
+    position: absolute;
+    right: 90px;
+    top: 20px;
+    font-size: 30px;
+}
